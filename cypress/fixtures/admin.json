@@ -1,0 +1,14 @@
+[
+    {
+        "name": "admin log in happy path",
+        "email": "qamid@qamid.ru",
+        "passw": "qamid",
+        "message": "Управление залами"
+    },
+    {
+        "name": "admin log in sad path",
+        "email": "qamid@qamid.ru",
+        "passw": "qamit",
+        "message": "Ошибка авторизации!"
+    }
+]

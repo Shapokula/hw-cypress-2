@@ -1,0 +1,42 @@
+[
+    {
+        "admin": {
+            "email": "qamid@qamid.ru",
+            "passw": "qamid",
+            "seancesHall": ".conf-step__seances-hall",
+            "seancesMovie": ".conf-step__seances-movie",
+            "seancesTitle": ".conf-step__seances-title"
+        },
+        "user": {
+            "seancesHall": ".movie-seances__hall",
+            "seancesTime": ".movie-seances__time",
+            "acceptButton": ".acceptin-button",
+            "seats": [
+                {
+                    "row": 1,
+                    "seat": 1
+                },
+                {
+                    "row": 1,
+                    "seat": 2
+                },
+                {
+                    "row": 1,
+                    "seat": 3
+                },
+                {
+                    "row": 1,
+                    "seat": 4
+                },
+                {
+                    "row": 1,
+                    "seat": 5
+                },
+                {
+                    "row": 1,
+                    "seat": 6
+                }
+            ]
+        }
+    }
+]
